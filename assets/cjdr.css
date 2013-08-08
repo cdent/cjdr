@@ -6,7 +6,7 @@
 }
 
 html {
-    background-color: #dddddd;
+    /* background-color: #dddddd; */
 }
 
 a {
@@ -39,7 +39,7 @@ h3 + p {
     margin-top: 0;
 }
 
-@media all and (max-width: 750px) {
+@media all and (max-width: 900px) {
     article {
         width: 100%;
         padding-left: 1em;
