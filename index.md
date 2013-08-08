@@ -47,7 +47,8 @@ see more, connect more and understand more.
 Major placements:
 
 * [Osmosoft](http://osmosoft.com), the open source innovation group at
-  [BT](http://www.btplc.com), creating TiddlyWeb and TiddlySpace, listed below.
+  [BT](http://www.btplc.com), creating TiddlyWeb and TiddlySpace (listed below)
+  and mentoring a team of emerging web and open source developers.
 * [Avox](http://www.avox.info/), developing  [wiki-data](http://wiki-data.com/):
   "an open, extensible, linkable repository of company information".
 * [Dr. Thomas + Partner](http://www.tup.com/), enhancing their TiddlyWeb-based
@@ -65,7 +66,8 @@ planning game.
   of code re-architecture and detailed profiling.
 * Enhanced Atom and RSS syndication capabilities.
 * Built SOAP API allowing interoperation with Sharepoint installations.
-* Built HTTP API allowing interoperation with everything else.
+* Led the team that built an HTTP API allowing interoperation with everything
+  else.
 * Developed low bandwidth version ("miki") for effective use on mobile or
   limited connections.
 * Created "Socialtext Unplugged" pairing TiddlyWiki with the HTTP API for
