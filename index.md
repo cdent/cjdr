@@ -5,14 +5,13 @@ Newbury, United Kingdom
 <http://burningchrome.com>  
 <cdent@peermore.com>
 
-I am an experienced developer and thinker with a passion for
-maximizing access to the information that empowers individuals and
-groups to get things done. I'm a vocal advocate of the open web, open
-protocols and open source. I make tools that allow people to create,
-share and synthesize information on the web so they can learn and
-collaborate.
+I am an experienced developer and thinker with a passion for maximizing
+access to information that empowers individuals and groups to get things
+done. I'm a vocal advocate of the open web, open protocols and open
+source. I make tools that allow people to create, share and synthesize
+information on the web so they can learn and collaborate.
 
-[More Detail](/detail)
+[More detail](/detail).
 
 Expertise
 ---------
@@ -22,13 +21,13 @@ Expertise
 * Synchronous and asynchronous distance collaboration and collaborative tools.
 * Agile and open source methodologies.
 * Python, JavaScript, Perl and other languages in many Unix-like environments.
-* Design and deployment of REST-oriented HTTP APIs.
+* Design and development of REST-oriented HTTP APIs.
 * Automating build, testing, deployment and monitoring of distributed systems.
 * Requirements gathering and systems analysis.
-* Information architecture, classification theory, categorization.
+* Information architecture, classification theory and categorization.
 
-Links
------
+Profiles
+--------
 
 * [GitHub](https://github.com/cdent)
 * [LinkedIn](http://uk.linkedin.com/in/chrisdent)
@@ -47,12 +46,14 @@ see more, connect more and understand more.
 Major placements:
 
 * [Osmosoft](http://osmosoft.com), the open source innovation group at
-  [BT](http://www.btplc.com), creating TiddlyWeb and TiddlySpace (listed below)
-  and mentoring a team of emerging web and open source developers.
-* [Avox](http://www.avox.info/), developing  [wiki-data](http://wiki-data.com/):
+  [BT](http://www.btplc.com), architecting and implementing TiddlyWeb
+  and TiddlySpace (listed below), leading the design of web applications,
+  consulting on business process improvements and mentoring a team of
+  remote and on-site web and open source developers.
+* [Avox](http://www.avox.info/), developing [wiki-data](http://wiki-data.com/):
   "an open, extensible, linkable repository of company information".
 * [Dr. Thomas + Partner](http://www.tup.com/), enhancing their TiddlyWeb-based
-  documentation system.
+  customer documentation and knowledge base system.
 
 ### Senior Developer, Information Access, [Socialtext](http://socialtext.com)
 _September 2004 - December 2007_
@@ -68,7 +69,7 @@ planning game.
 * Built SOAP API allowing interoperation with Sharepoint installations.
 * Led the team that built an HTTP API allowing interoperation with everything
   else.
-* Developed low bandwidth version ("miki") for effective use on mobile or
+* Developed low bandwidth version ("miki") for effective use on mobile and
   limited connections.
 * Created "Socialtext Unplugged" pairing TiddlyWiki with the HTTP API for
   offline use of the Socialtext wiki.
@@ -83,11 +84,11 @@ University Knowledge Base (KB): A self-service computing support
 resource for the members of the university community and a content
 management system for IT documentation.
 
-* Wrote the SOAP backend and WSDL to enable enterprise systems to interact
-  with the KB.
 * Utilized techniques developed at Blue Oxen to create an information
   management system used by the distributed development team to streamline
   development processes.
+* Wrote the SOAP backend and WSDL to enable enterprise systems to interact
+  with the KB.
 
 ### Co-founder, Blue Oxen Associates
 _2002 - 2004_
@@ -97,7 +98,8 @@ performance collaboration.
 
 * Created the [Blue Oxen Way](http://eekim.com/blog/2007/02/the-blue-oxen-way/)
   of evaluating and encouraging collaboration.
-* Developed Purple Numbers and [Purplewiki](https://github.com/eekim/purplewiki)
+* Developed Purple Numbers and
+  [Purplewiki](https://github.com/eekim/purplewiki),
   adding granular addressability and transclusion to the wiki environment.
 * Facilitated online "collaboratories" exploring how to bring the ideas of
   Doug Engelbart into the mainstream.
@@ -220,7 +222,9 @@ _2002_
 
 Describes a design approach wherein computers and computer applications
 are thought of as tools rather than interactive devices. This paper was
-instrumental in forming the [Blue Oxen Way](http://eekim.com/blog/2007/02/the-blue-oxen-way/), a framework for a philsophy of collaboration.
+instrumental in forming the
+[Blue Oxen Way](http://eekim.com/blog/2007/02/the-blue-oxen-way/),
+a framework for a philsophy of collaboration.
 
 ### [Creating Conceptual Access: Faceted Knowledge Organization in the unrev-ii email archives](http://burningchrome.com/~cdent/uviz/portpaper2.html)
 _2002_
