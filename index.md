@@ -5,11 +5,12 @@ Newbury, United Kingdom
 <http://burningchrome.com>  
 <cdent@peermore.com>
 
-I am an experienced developer and thinker with a passion for maximizing
-access to information that empowers individuals and groups to get things
-done. I'm a vocal advocate of the open web, open protocols and open
-source. I make tools that allow people to create, share and synthesize
-information on the web so they can learn and collaborate.
+I am an experienced developer, team leader and thinker with a passion
+for maximizing access to information that empowers individuals and
+groups to get things done. I'm a vocal advocate of the open web, open
+protocols and open source. I make tools that allow people to create,
+share and synthesize information on the web so they can learn and
+collaborate.
 
 [More detail](/detail).
 
@@ -66,7 +67,7 @@ planning game.
 * Achieved order of magnitude performance improvements through a combination
   of code re-architecture and detailed profiling.
 * Enhanced Atom and RSS syndication capabilities.
-* Built SOAP API allowing interoperation with Sharepoint installations.
+* Implemented SOAP API for Sharepoint-specific interoperability.
 * Led the team that built an HTTP API allowing interoperation with everything
   else.
 * Developed low bandwidth version ("miki") for effective use on mobile and
@@ -118,7 +119,7 @@ capitalization.
 * Developed a secure, distributed task automation infrastructure for managing
   those services.
 * Created a mod-perl driven environment for the management and presentation
-  of the web presence of the local newspaper.
+  of a local newspaper's web presence.
 
 ### Messaging and Networking Specialist, Indiana University
 _1995 - 1997_
@@ -129,34 +130,32 @@ students, staff and faculty of the university.
 Projects
 --------
 
-### [TiddlyWeb](https://github.com/tiddlyweb/tiddlyweb)
+### [TiddlyWeb](https://github.com/tiddlyweb/tiddlyweb) <http://tiddlyweb.com>
 _2008 - Present_
 
 The canonical HTTP API for tiddlers: small chunks of content on the web.
 
-Project originator, lead and community manager for an ongoing project
-originally created as a reference server side for TiddlyWiki but has
-since involved into a robust content and data store with a pluggable
-architecture allowing multiple representations and storage systems. A
-WSGI-based Python application.
+Project originator, lead and community manager for a WSGI-based Python
+application originally created as a reference server side for
+TiddlyWiki; since evolved into a robust content and data store with a
+pluggable architecture allowing multiple representations and storage
+systems.
 
-See also <http://tiddlyweb.com/>.
-
-### [TiddlySpace](https://github.com/TiddlySpace/tiddlyspace)
+### [TiddlySpace](https://github.com/TiddlySpace/tiddlyspace) <http://tiddlyspace.com>
 _2010 - Present_
 
 A discoursive social model for tiddlers
 
-Lead developer and architect, project lead, community manager and admin
+Lead developer and architect, project lead, community manager and administrator
 of the major installation at <http://tiddlyspace.com>. TiddlySpace is an
 application of TiddlyWeb enhanced to operate at scale with a large number
-of users.
+of users and a simplified user experience.
 
 ### [twikifier](https://github.com/cdent/twikifier)
 _2012 - Present_
 
-A Node.js wrapper around the core JavaScript of TiddlyWiki to allow
-server-side rendering of TiddlyWiki text into HTML.
+A Node.js wrapper around the core JavaScript source of TiddlyWiki to allow
+server-side rendering of TiddlyWiki markup into HTML.
 
 ### [tapas](https://github.com/cdent/tapas)
 _2012_
@@ -168,8 +167,8 @@ single-page applications in the TiddlySpace ecosystem.
 ### [tiddlywebredis](https://github.com/cdent/tiddlywebredis)
 _2011_
 
-An experimental Redis-based persistence layer for TiddlyWeb, showing the
-flexible storage inteface in the TiddlyWeb architecture.
+An experimental Redis-based persistence layer for TiddlyWeb, leveraging
+the flexible storage interface in the TiddlyWeb architecture.
 
 ### [PurpleWiki](http://search.cpan.org/~cdent/PurpleWiki-0.94/)
 _2003 - 2004_
@@ -205,11 +204,10 @@ Writing
 _2011_
 
 The fundamental concept in an Internet Bank of Content (IBOC) is that
-rather than giving a piece (as binary data) of sociable content to a web
-service, a participant in the social web would upload or locate that
-content in their Bank and provide a URI to the service, called a
-presentation service. The bank holds the content in trust for the
-individual.
+rather than giving a piece of sociable content to a web service, a
+participant in the social web would upload or locate that content in
+their Bank and provide a URI to the service, called a presentation
+service. The bank holds the content in trust for the individual.
 
 ### [TiddlyWeb: HTTP for Tiddlers](http://peermore.com/http_tiddlers.pdf)
 _2010_
