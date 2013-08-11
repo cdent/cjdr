@@ -24,4 +24,4 @@ See also:
 * [My Point](http://cdent.tiddlyspace.com/My%20Point)
 * [The Synthetic Web](http://cdent.tiddlyspace.com/The%20Synthetic%20Web)
 
-[Back to the CV](/index)
+[Back to the CV](/)
