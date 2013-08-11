@@ -21,10 +21,10 @@ Expertise
 * Project, product, team and community management.
 * Synchronous and asynchronous distance collaboration and collaborative tools.
 * Agile and open source methodologies.
+* Requirements gathering and systems analysis.
 * Python, JavaScript, Perl and other languages in many Unix-like environments.
 * Design and development of REST-oriented HTTP APIs.
 * Automating build, testing, deployment and monitoring of distributed systems.
-* Requirements gathering and systems analysis.
 * Information architecture, classification theory and categorization.
 
 Profiles
@@ -137,9 +137,9 @@ The canonical HTTP API for tiddlers: small chunks of content on the web.
 
 Project originator, lead and community manager for a WSGI-based Python
 application originally created as a reference server side for
-TiddlyWiki; since evolved into a robust content and data store with a
-pluggable architecture allowing multiple representations and storage
-systems.
+TiddlyWiki; TiddlyWeb has since evolved into a robust generic content and
+data store with a pluggable architecture allowing multiple representations
+and storage systems.
 
 ### [TiddlySpace](https://github.com/TiddlySpace/tiddlyspace) <http://tiddlyspace.com>
 _2010 - Present_
