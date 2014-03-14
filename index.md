@@ -36,7 +36,7 @@ Profiles
 Experience
 ----------
 
-### Director, [Peermore](http://peermore.com)
+### Principal Developer, [Peermore](http://peermore.com)
 _December 2007 - Present_
 
 Peermore Limited is a consulting, systems design and development
