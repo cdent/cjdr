@@ -1,7 +1,7 @@
 Chris Dent
 ==========
 
-Newbury, United Kingdom  
+Cornwall, United Kingdom  
 <http://burningchrome.com>  
 <cdent@peermore.com>
 
@@ -36,8 +36,25 @@ Profiles
 Experience
 ----------
 
-### Principal Developer, [Peermore](http://peermore.com)
-_December 2007 - Present_
+### Senior Software Engineer, OpenStack Telemetry, [Red Hat](http://redhat.com)
+_May 2014 - Present_
+
+Developer contributing to the open source OpenStack Telemetry project,
+[Ceilometer](https://wiki.openstack.org/wiki/Ceilometer), and the
+integration of Ceilometer with Red Hat products. Ceilometer provides services
+for measuring and monitoring resources in an OpenStack cloud.
+
+* Improved Ceilometer presence in testing and continuous integration
+  tools (devstack, grenade, tempest).
+* Developed plugins for processing metrics from IPMI agents.
+* Updated Puppet-based tools for deploying OpenStack to support highly
+  available Ceilometer services using distributed group membership
+  coordination.
+* Contributed to a set of guidelines for building effective and
+  consumable HTTP APIs.
+
+### Director and Principal Developer, [Peermore](http://peermore.com)
+_December 2007 - April 2014_
 
 Peermore Limited is a consulting, systems design and development
 company. Peermore specializes in using the software and social
@@ -130,6 +147,8 @@ students, staff and faculty of the university.
 Projects
 --------
 
+_A sampling. See [GitHub](https://github.com/cdent) for more._
+
 ### [TiddlyWeb](https://github.com/tiddlyweb/tiddlyweb) <http://tiddlyweb.com>
 _2008 - Present_
 
@@ -141,39 +160,27 @@ TiddlyWiki; TiddlyWeb has since evolved into a robust generic content and
 data store with a pluggable architecture allowing multiple representations
 and storage systems.
 
-### [TiddlySpace](https://github.com/TiddlySpace/tiddlyspace) <http://tiddlyspace.com>
-_2010 - Present_
+### [Tank](https://github.com/cdent/tank) <https://tank.peermore.com>
+_2014 - Present_
 
-A discoursive social model for tiddlers
+A content and application platform using the TiddlyWeb API that could be
+described as an enhanced wiki.
+
+### [TiddlySpace](https://github.com/TiddlySpace/tiddlyspace) <http://tiddlyspace.com>
+_2010 - 2013_
+
+A discoursive social model for tiddlers.
 
 Lead developer and architect, project lead, community manager and administrator
 of the major installation at <http://tiddlyspace.com>. TiddlySpace is an
 application of TiddlyWeb enhanced to operate at scale with a large number
-of users and a simplified user experience.
-
-### [twikifier](https://github.com/cdent/twikifier)
-_2012 - Present_
-
-A Node.js wrapper around the core JavaScript source of TiddlyWiki to allow
-server-side rendering of TiddlyWiki markup into HTML.
-
-### [tapas](https://github.com/cdent/tapas)
-_2012_
-
-A real-time content notification dashboard for TiddlySpace.
-Created to demonstrate the ease with which it is possible to create
-single-page applications in the TiddlySpace ecosystem.
-
-### [tiddlywebredis](https://github.com/cdent/tiddlywebredis)
-_2011_
-
-An experimental Redis-based persistence layer for TiddlyWeb, leveraging
-the flexible storage interface in the TiddlyWeb architecture.
+of users and a simplified user experience. A fairly complex melange of
+Python and JavaScript (in the client and server).
 
 ### [PurpleWiki](http://search.cpan.org/~cdent/PurpleWiki-0.94/)
 _2003 - 2004_
 
-A derivation of UseMod wiki implementing
+A derivation of the Perl-based UseMod wiki implementing
 [Purple Number](http://en.wikipedia.org/wiki/Purple_Numbers)
 based granular addressability of content on wiki pages and transclusion
 of content between wiki pages and other systems.

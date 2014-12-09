@@ -15,8 +15,6 @@ The best way to solve either class of problem is to actively participate
 in the group, sharing in whatever it is they do, with an eye to understanding
 and improving tooling and process and incrementally making steady improvements.
 
-My preference is for these relationships to be medium to long term contracts.
-
 See also:
 
 * [What I Do](http://cdent.tiddlyspace.com/What%20I%20Do)
