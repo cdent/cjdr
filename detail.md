@@ -11,7 +11,7 @@ time or space can participate and contribute as well.
 I believe the best way to accomplish this goal is to partner with groups
 to help them solve their information problems. Often the problems are a
 result of lack of tooling, but sometimes they come from unhealthy processes.
-The best way to solve either class of problem is to actively participate 
+The best way to solve either class of problem is to actively participate
 in the group, sharing in whatever it is they do, with an eye to understanding
 and improving tooling and process and incrementally making steady improvements.
 

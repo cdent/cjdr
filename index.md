@@ -39,19 +39,21 @@ Experience
 ### Senior Software Engineer, OpenStack Telemetry, [Red Hat](http://redhat.com)
 _May 2014 - Present_
 
-Developer contributing to the open source OpenStack Telemetry project,
-[Ceilometer](https://wiki.openstack.org/wiki/Ceilometer), and the
-integration of Ceilometer with Red Hat products. Ceilometer provides services
-for measuring and monitoring resources in an OpenStack cloud.
+Core member of the OpenStack Telemetry project,
+[Ceilometer](https://wiki.openstack.org/wiki/Ceilometer). Ceilometer
+provides services for measuring and monitoring resources in an
+OpenStack cloud and is an integral part of Red Hat Enterprise Linux
+OpenStack Platform.
 
 * Improved Ceilometer presence in testing and continuous integration
   tools (devstack, grenade, tempest).
-* Developed plugins for processing metrics from IPMI agents.
-* Updated Puppet-based tools for deploying OpenStack to support highly
-  available Ceilometer services using distributed group membership
-  coordination.
-* Contributed to a set of guidelines for building effective and
-  consumable HTTP APIs.
+* Contributed to the API Working Group to set guidelines for
+  consistency in all the OpenStacks APIs.
+* Created gabbi (listed below), a tool for declarative testing of
+  HTTP APIs, and used it to vastly improve test coverage and
+  readability.
+* Initiated project-wide decomposition of monolithic service into
+  independent but cooperating services.
 
 ### Director and Principal Developer, [Peermore](http://peermore.com)
 _December 2007 - April 2014_
@@ -149,6 +151,14 @@ Projects
 
 _A sampling. See [GitHub](https://github.com/cdent) for more._
 
+### [Gabbi](https://github.com/cdent/gabbi) <https://gabbi.readthedocs.org>
+_2014 - Present_
+
+Declarative HTTP testing.
+
+Creator of a tool for running tests of HTTP APIs where requests and
+responses are represented in a declarative YAML-based form.
+
 ### [TiddlyWeb](https://github.com/tiddlyweb/tiddlyweb) <http://tiddlyweb.com>
 _2008 - Present_
 
@@ -159,12 +169,6 @@ application originally created as a reference server side for
 TiddlyWiki; TiddlyWeb has since evolved into a robust generic content and
 data store with a pluggable architecture allowing multiple representations
 and storage systems.
-
-### [Tank](https://github.com/cdent/tank) <https://tank.peermore.com>
-_2014 - Present_
-
-A content and application platform using the TiddlyWeb API that could be
-described as an enhanced wiki.
 
 ### [TiddlySpace](https://github.com/TiddlySpace/tiddlyspace) <http://tiddlyspace.com>
 _2010 - 2013_
@@ -195,13 +199,13 @@ Effectively interspersed a course in HCI and information
 representation and retrieval with a general overview of computer
 science. Of special note:
 
+* [The Computer As Tool](http://peermore.com/astool.html), a paper exploring
+  task and tool orientation in human computer interaction.
 * A Java Software Engineering course which began with a review of design
   patterns and ended with a [grueling refactoring of the KnownSpace
   kernel](http://www.burningchrome.com/~cdent/649/ass5/turnin/refactorings.htm)
   and the implementation of the [Helium UI](http://helium.knownspace.org/)
   over the kernel.
-* [The Computer As Tool](http://peermore.com/astool.html), a paper exploring
-  task and tool orientation in human computer interaction.
 
 
 Writing
