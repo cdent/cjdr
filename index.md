@@ -36,8 +36,14 @@ Profiles
 Experience
 ----------
 
+### Principal Software Engineer, [Mirantis](https://www.mirantis.com)
+
+_December 2015_
+
+Assist in the design and development of Nova, the OpenStack compute service.
+
 ### Senior Software Engineer, OpenStack Telemetry, [Red Hat](http://redhat.com)
-_May 2014 - Present_
+_May 2014 - November 2015_
 
 Core member of the OpenStack Telemetry project,
 [Ceilometer](https://wiki.openstack.org/wiki/Ceilometer). Ceilometer
