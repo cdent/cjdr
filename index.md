@@ -80,7 +80,7 @@ Major placements:
   and TiddlySpace (listed below), leading the design of web applications,
   consulting on business process improvements and mentoring a team of
   remote and on-site web and open source developers.
-* [Avox](http://www.avox.info/), developing [wiki-data](http://wiki-data.com/):
+* [Avox](http://www.avox.info/), developing wiki-data:
   "an open, extensible, linkable repository of company information".
 * [Dr. Thomas + Partner](http://www.tup.com/), enhancing their TiddlyWeb-based
   customer documentation and knowledge base system.
