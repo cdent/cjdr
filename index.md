@@ -2,8 +2,8 @@ Chris Dent
 ==========
 
 Cornwall, United Kingdom  
-<http://burningchrome.com>  
-<cdent@peermore.com>
+<https://anticdent.org>  
+<cdent@anticdent.org>
 
 I am an experienced developer, team leader and thinker with a passion
 for maximizing access to information that empowers individuals and
