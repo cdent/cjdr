@@ -42,6 +42,10 @@ _December 2015_
 
 Assist in the design and development of Nova, the OpenStack compute service.
 
+* Created the Placement API service for tracking inventories and allocations
+  of consumable resources (e.g., disk, virtual cpus, memory) to be
+  used in making scheduling decisions.
+
 ### Senior Software Engineer, OpenStack Telemetry, [Red Hat](http://redhat.com)
 _May 2014 - November 2015_
 

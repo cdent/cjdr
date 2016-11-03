@@ -15,11 +15,6 @@ The best way to solve either class of problem is to actively participate
 in the group, sharing in whatever it is they do, with an eye to understanding
 and improving tooling and process and incrementally making steady improvements.
 
-See also:
-
-* [What I Do](http://cdent.tiddlyspace.com/What%20I%20Do)
-* [What I Do 2](http://cdent.tiddlyspace.com/What%20I%20Do%202)
-* [My Point](http://cdent.tiddlyspace.com/My%20Point)
-* [The Synthetic Web](http://cdent.tiddlyspace.com/The%20Synthetic%20Web)
+See also: [The Synthetic Web](https://anticdent.org/the-synthetic-web.html)
 
 [Back to the CV](/)
