@@ -221,8 +221,7 @@ science. Of special note:
 Writing
 -------
 
-### [Inverting the Social Web with Internet Banks of
-Content](https://tank.peermore.com/tanks/iboc/Inverting%20the%20Social%20Web%20with%20Internet%20Banks%20of%20Content)
+### [Inverting the Social Web with Internet Banks of Content](https://tank.peermore.com/tanks/iboc/Inverting%20the%20Social%20Web%20with%20Internet%20Banks%20of%20Content)
 _2011_
 
 The fundamental concept in an Internet Bank of Content (IBOC) is that
