@@ -5,12 +5,12 @@ Cornwall, United Kingdom
 <https://anticdent.org>  
 <cdent@anticdent.org>
 
-I am an experienced developer, team leader and thinker with a passion
-for maximizing access to information that empowers individuals and
-groups to get things done. I'm a vocal advocate of the open web, open
-protocols and open source. I make tools that allow people to create,
-share and synthesize information on the web so they can learn and
-collaborate.
+I am an experienced software developer, team leader and thinker with
+a passion for maximizing access to the information that empowers
+individuals and groups to get things done. I'm a vocal advocate of
+open protocols, open source, and the open web. I create tools that
+allow people to create, share and synthesize information on the web
+so they can learn and collaborate.
 
 [More detail](/detail).
 
@@ -42,14 +42,14 @@ _December 2015 - Present_
 
 Participate in the design and development of Nova, the OpenStack compute service.
 
-* Created the Placement HTTP API service for tracking inventories
-  and allocations of consumable resources (e.g., disk, virtual cpus,
-  memory) used in making scheduling decisions.
-* Leader in the Nova scheduling subteam directing the integration of
-  existing nova-scheduler tools with the new Placement service.
 * Led the API working group to create guidelines for improving the
   consistency, correctness and stability of the OpenStack
   APIs.
+* Created the Placement HTTP API service for tracking inventories
+  and allocations of consumable resources (e.g., disk, virtual CPUs,
+  memory) used in making scheduling decisions.
+* Leader in the Nova scheduling subteam, directing the integration of
+  existing Nova scheduler tools with the new Placement service.
 * Consistently in the top ten (of greater than 300) contributors (commits
   and code reviews) to the Nova project.
 * Mentored other developers within Mirantis and the wider OpenStack
