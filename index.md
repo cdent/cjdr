@@ -38,13 +38,22 @@ Experience
 
 ### Principal Software Engineer, [Mirantis](https://www.mirantis.com)
 
-_December 2015_
+_December 2015 - Present_
 
-Assist in the design and development of Nova, the OpenStack compute service.
+Participate in the design and development of Nova, the OpenStack compute service.
 
-* Created the Placement API service for tracking inventories and allocations
-  of consumable resources (e.g., disk, virtual cpus, memory) to be
-  used in making scheduling decisions.
+* Created the Placement HTTP API service for tracking inventories
+  and allocations of consumable resources (e.g., disk, virtual cpus,
+  memory) used in making scheduling decisions.
+* Leader in the Nova scheduling subteam directing the integration of
+  existing nova-scheduler tools with the new Placement service.
+* Led the API working to create guidelines for improving the
+  consistency, correctness and stability of the OpenStack
+  APIs.
+* Consistently in the top ten (of greater than 300) contributors (commits
+  and code reviews) to the Nova project.
+* Mentored other developers within Mirantis and the wider OpenStack
+  community.
 
 ### Senior Software Engineer, OpenStack Telemetry, [Red Hat](http://redhat.com)
 _May 2014 - November 2015_
@@ -63,7 +72,8 @@ OpenStack Platform.
   HTTP APIs, and used it to vastly improve test coverage and
   readability.
 * Initiated project-wide decomposition of monolithic service into
-  independent but cooperating services.
+  independent but cooperating services leading to improved
+  maintainability and flexible use.
 
 ### Director and Principal Developer, [Peermore](http://peermore.com)
 _December 2007 - April 2014_

@@ -11,15 +11,20 @@ html {
 
 a {
     text-decoration: none;
-    color: #4400ff;
+    color: inherit;
+    border-bottom: thin dashed blue
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    color: inherit;
+    border-bottom: thin solid blue
 }
 
 a:visited {
-    color: #ff0044;
+    text-decoration: none;
+    color: inherit;
+    border-bottom: thin dashed red;
 }
 
 article {
