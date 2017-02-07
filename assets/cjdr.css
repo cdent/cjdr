@@ -65,16 +65,19 @@ h3 + p {
     article {
         font-size: 70%;
         width: 100%;
-        padding: 1em;
+        padding: 2em;
+        margin: 2em;
     }
 
     a {
         color: inherit;
+        border-bottom: none;
     }
 
-    a[href]:after {
+    /* h3 > a[href]:after {
         content: "";
-    }
+    }  */
+
     abbr[title]:after {
         content: "";
     }

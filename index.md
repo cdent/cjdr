@@ -171,7 +171,7 @@ Projects
 
 _A sampling. See [GitHub](https://github.com/cdent) for more._
 
-### [Gabbi](https://github.com/cdent/gabbi) <https://gabbi.readthedocs.org>
+### [Gabbi](https://github.com/cdent/gabbi)
 _2014 - Present_
 
 Declarative HTTP testing.
@@ -179,7 +179,7 @@ Declarative HTTP testing.
 Creator of a tool for running tests of HTTP APIs where requests and
 responses are represented in a declarative YAML-based form.
 
-### [TiddlyWeb](https://github.com/tiddlyweb/tiddlyweb) <http://tiddlyweb.com>
+### [TiddlyWeb](https://github.com/tiddlyweb/tiddlyweb)
 _2008 - Present_
 
 The canonical HTTP API for tiddlers: small chunks of content on the web.
@@ -190,7 +190,7 @@ TiddlyWiki; TiddlyWeb has since evolved into a robust generic content and
 data store with a pluggable architecture allowing multiple representations
 and storage systems.
 
-### [TiddlySpace](https://github.com/TiddlySpace/tiddlyspace) <http://tiddlyspace.com>
+### [TiddlySpace](https://github.com/TiddlySpace/tiddlyspace)
 _2010 - 2013_
 
 A discoursive social model for tiddlers.
