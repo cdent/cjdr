@@ -47,7 +47,7 @@ Participate in the design and development of Nova, the OpenStack compute service
   memory) used in making scheduling decisions.
 * Leader in the Nova scheduling subteam directing the integration of
   existing nova-scheduler tools with the new Placement service.
-* Led the API working to create guidelines for improving the
+* Led the API working group to create guidelines for improving the
   consistency, correctness and stability of the OpenStack
   APIs.
 * Consistently in the top ten (of greater than 300) contributors (commits
