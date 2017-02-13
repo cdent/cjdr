@@ -195,11 +195,11 @@ _2010 - 2013_
 
 A discoursive social model for tiddlers.
 
-Lead developer and architect, project lead, community manager and administrator
-of the major installation at <http://tiddlyspace.com>. TiddlySpace is an
-application of TiddlyWeb enhanced to operate at scale with a large number
-of users and a simplified user experience. A fairly complex melange of
-Python and JavaScript (in the client and server).
+Lead developer and architect, project lead, community manager and
+administrator of the main installation. TiddlySpace is an
+application of TiddlyWeb enhanced to operate at scale with a large
+number of users and a simplified user experience. A fairly complex
+melange of Python and JavaScript (in the client and server).
 
 ### [PurpleWiki](http://search.cpan.org/~cdent/PurpleWiki-0.94/)
 _2003 - 2004_
