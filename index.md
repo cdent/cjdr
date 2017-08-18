@@ -26,6 +26,7 @@ Expertise
 * Design and development of REST-oriented HTTP APIs.
 * Automating build, testing, deployment and monitoring of distributed systems.
 * Information architecture, classification theory and categorization.
+* Open source governance and community building.
 
 Profiles
 --------
@@ -36,9 +37,19 @@ Profiles
 Experience
 ----------
 
+### Staff Engineer, [VMware](https://www.vmware.com)
+
+_July 2017 - Present_
+
+Participate in the design, development and governance of OpenStack.
+
+* Elected member of the OpenStack Technical Committee.
+* Co-chair of the API-WG and API-SIG.
+* Leader in the Nova scheduling and placement subteam.
+
 ### Principal Software Engineer, [Mirantis](https://www.mirantis.com)
 
-_December 2015 - Present_
+_December 2015 - June 2017_
 
 Participate in the design and development of Nova, the OpenStack compute service.
 
