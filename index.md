@@ -43,9 +43,10 @@ _July 2017 - Present_
 
 Participate in the design, development and governance of OpenStack.
 
-* Elected member of the OpenStack Technical Committee.
+* Elected to two year long terms on the OpenStack Technical Committee.
 * Co-chair of the API-WG and API-SIG.
-* Leader in the Nova scheduling and placement subteam.
+* Leader in the Nova scheduling subteam.
+* Project Team Lead of the Placement project.
 
 ### Principal Software Engineer, [Mirantis](https://www.mirantis.com)
 
