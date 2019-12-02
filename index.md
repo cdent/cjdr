@@ -39,7 +39,12 @@ Experience
 
 ### Staff Engineer, [VMware](https://www.vmware.com)
 
-_July 2017 - Present_
+_October 2019 - Present_
+
+Evolve the HTTP API to a machine learning driven platform for monitoring
+and automatically maintaining radio access networks.
+
+_July 2017 - October 2019_
 
 Participate in the design, development and governance of OpenStack.
 
