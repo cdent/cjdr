@@ -2,6 +2,6 @@
 
 FILE=$1
 
-CONTENT=`python -m markdown $FILE.md`
+CONTENT=`python3 -m markdown $FILE.md`
 
 perl -p -e "s|^{{content}}|${CONTENT}|;" < $FILE.template > $FILE.html

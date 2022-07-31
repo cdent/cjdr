@@ -22,8 +22,8 @@ Expertise
 * Synchronous and asynchronous distance collaboration and collaborative tools.
 * Agile and open source methodologies.
 * Requirements gathering and systems analysis.
-* Python, JavaScript, Perl and other languages in many Unix-like environments.
-* Design and development of REST-oriented HTTP APIs.
+* Python, Go, JavaScript, Perl and other languages in many Unix-like environments.
+* Design, development, and standardization of REST-oriented HTTP APIs.
 * Automating build, testing, deployment and monitoring of distributed systems.
 * Information architecture, classification theory and categorization.
 * Open source governance and community building.
@@ -37,12 +37,33 @@ Profiles
 Experience
 ----------
 
+### Staff Engineer 2, [VMware](https://www.vmware.com)
+
+_July 2022 - Present_
+
+Technical lead for the design and development of the R1 services within the VMware
+Centralized RIC Platform (CRIC), an implementation of the [O-RAN](https://www.o-ran.org)
+Non-Real Time RAN Intelligent Controller.
+
+* Voting member of Working Group 2 of the O-RAN Alliance, defining standards
+  for the Non-RT RIC including the R1 and A1 interfaces.
+* Develop and mature services for service and data management, exposure,
+  consumption, and observation in golang and Python for the CRIC.
+* Active member of company-wide project to improve API standards and tooling.
+
 ### Staff Engineer, [VMware](https://www.vmware.com)
 
-_October 2019 - Present_
+_October 2019 - June 2021_
 
-Evolve the HTTP API to a machine learning driven platform for monitoring
-and automatically maintaining radio access networks.
+Evolve and maintain the HTTP API to a machine learning-driven platform (Uhana)
+for monitoring and automatically maintaining radio access networks in near
+real-time.
+
+* Port existing API from Python+Django to golang to improve scalability.
+* Design and build framework to concurrently process and aggregate millions of
+  Cassandra rows, per request.
+* Manage API service in Mesos and Kubernetes.
+* Ongoing feature development and performance improvement.
 
 _July 2017 - October 2019_
 
@@ -102,17 +123,17 @@ see more, connect more and understand more.
 
 Major placements:
 
-* [Osmosoft](http://osmosoft.com), the open source innovation group at
+* Osmosoft, the open source innovation group at
   [BT](http://www.btplc.com), architecting and implementing TiddlyWeb
   and TiddlySpace (listed below), leading the design of web applications,
   consulting on business process improvements and mentoring a team of
   remote and on-site web and open source developers.
-* [Avox](http://www.avox.info/), developing wiki-data:
+* Avox, developing wiki-data:
   "an open, extensible, linkable repository of company information".
 * [Dr. Thomas + Partner](http://www.tup.com/), enhancing their TiddlyWeb-based
   customer documentation and knowledge base system.
 
-### Senior Developer, Information Access, [Socialtext](http://socialtext.com)
+### Senior Developer, Information Access, Socialtext
 _September 2004 - December 2007_
 
 Senior developer building Perl-based wiki software for small to medium
@@ -219,7 +240,7 @@ and storage systems.
 _2003 - 2004_
 
 A derivation of the Perl-based UseMod wiki implementing
-[Purple Number](http://en.wikipedia.org/wiki/Purple_Numbers)
+[Purple Number](https://eekim.com/software/purple/purple.html)
 based granular addressability of content on wiki pages and transclusion
 of content between wiki pages and other systems.
 
